@@ -1,0 +1,3 @@
+This file was not directly merged to the master branch instead it firstly created its separate branch 
+
+which could be later on merged with the master branch after accepting the changes with no conflict .
