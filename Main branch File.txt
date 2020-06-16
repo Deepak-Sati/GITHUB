@@ -1,2 +1,11 @@
 Getting started with basic github tools through experiments 
 
+Feel comfortable with Git basic commands
+
+Feel comfortable with repositories via upload
+
+Feel comfortable with pull requests 
+
+Feel comfortable with customizing pins
+
+
