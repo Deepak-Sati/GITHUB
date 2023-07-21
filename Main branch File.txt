@@ -1,11 +1,20 @@
-Getting started with basic github tools through experiments 
+# GitHub
 
-Feel comfortable with Git basic commands
+1. Code  
 
-Feel comfortable with repositories via upload
+Consists of all the project files and folder just uploaded
 
-Feel comfortable with pull requests 
+Appear as INITIAL COMMIT
 
-Feel comfortable with customizing pins
+2. Issues
 
+Consists of bugs and features which are yet not added/resolved , can be solved by anyone publically 
+
+Appear under Issues section
+
+3. Pull requests
+
+After resolving bugs or updating some changes to the project files , create a separate branch (PULL REQUEST) so that changes are not directly visible in the main project folder . The PULL REQUEST appear under Pull Request section , decided by the admin of the project whether changes should be merged directly to the main folder or not . changes must not be conflicting.
+
+Appear as ADD FILES VIA UPLOAD
 
